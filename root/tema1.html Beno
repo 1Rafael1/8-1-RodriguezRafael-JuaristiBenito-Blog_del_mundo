@@ -15,7 +15,63 @@
             <li><a href="index.html"target="blank">Principal</a></li>
             <li><a href="tema2.html">Comida Saludable</a></li>
             <li><a href="tema3.html">Politica</a></li>
-            <li><a href="tema4.html">Moscas</a></li>
+            <li><a href="tema4.html">Moscas
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                
         </ul>
     </nav>
     <!-- *Empieza el blog*-->
@@ -34,14 +90,14 @@
                 <header>
                     <hgroup>
                         <!-- titulo del articulo -->
-                        <h2>Titulo del articulo</h2>
+                        <h2>Autos</h2>
                         <!-- fecha en la que se escribio el articulo -->
-                        <h4>dd/mes/aa</h4>
+                        <h4>25/01/22</h4>
                     </hgroup>
                 </header>
                 <!-- incia contenido del articulo -->
             <div>
-                <h3>ejemplo de subtitulo</h3>
+                <h3>Tipos de Autos</h3>
                 <p>ejemplo de contenido</p>           
              </div>
             <!-- termina contenido del articulo -->
